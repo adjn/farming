@@ -44,8 +44,8 @@ Begin preparation 2-4 weeks before last frost
     - Preferred alternatives include top soil, potting soil, or a mix including compost with potting soil and/or coconut coir 
     - Vermiculite can also be added, potentially unnecessary if using coconut coir
 1. Set the bucket out on a flat surface that can get dirty (e.g. lawn). 
-2. Add your soil, filling the bottom third.
-    **Recommended** Add the High N. fertilizer and mix in to the top inch.
+2. Add your soil, filling the bottom third.  
+    **Recommended:** Add the High N. fertilizer and mix in to the top inch.
 3. Make two small divots in the soil on opposite sides, about 1/3 of the way in from the edge. 
 4. Gently place two seed potatoes, buds pointing up in the divots
 5. Carefully add soil in and around the seed potatoes; taking special care to avoid damaging the buds. 
@@ -66,14 +66,14 @@ Note: If you are NOT planning to collect potato berries to work on True Potato S
 
 #### Slug control
 - There are chemicals that can be used to control slugs. Iron phosphate has seen mixed success. Beer traps sometimes work well. 
-- Also consider waking up early (or between first and second sleep [1](https://www.bbc.com/future/article/20220107-the-lost-medieval-habit-of-biphasic-sleep)[2](https://en.wikipedia.org/wiki/Polyphasic_sleep)) and going outside to clear any slugs. They will sometimes hide under the buckets during the day as well.
+- Also consider waking up early (or between first and second sleep [[1](https://www.bbc.com/future/article/20220107-the-lost-medieval-habit-of-biphasic-sleep)][[2](https://en.wikipedia.org/wiki/Polyphasic_sleep)]) and going outside to clear any slugs. They will sometimes hide under the buckets during the day as well.
 
 #### Surface breakthroughs
 Later in the season you may notice tubers breakthrough the surface of the soil. Be sure to cover that as potatoes exposed to sunlight can generate a poisonous substance. 
 
 ### Harvesting 
-0. Find an appropriate location to empty the buckets. This could be any number of things including onto a tarp, into a wheelbarrow, or into a raised bed that needs some additional soil. 
-    **Optional:** Use a chicken wire screen nailed to a 2x4 frame to dump the buckets onto.
+0. Find an appropriate location to empty the buckets. This could be any number of things including onto a tarp, into a wheelbarrow, or into a raised bed that needs some additional soil.  
+    **Optional:** Use a chicken wire screen nailed to a 2x4 frame to dump the buckets onto.  
 1. One bucket at a time empty and sort though the potato buckets
 2. Brush off all loose dirt from the potatoes, but do no wash them off. 
 3. Lay them out flat, in a lightless room for a ~2 weeeks for the skins to dry
